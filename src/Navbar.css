@@ -1,0 +1,10 @@
+button {
+  background-color: rgb(214, 201, 150);
+  border: 5px solid rgb(6, 27, 31);
+  border-radius: 10px;
+  color: rgb(6, 27, 31);
+  cursor: pointer;
+  font-size: 46px;
+  padding: 10px 40px;
+  text-transform: uppercase;
+}
